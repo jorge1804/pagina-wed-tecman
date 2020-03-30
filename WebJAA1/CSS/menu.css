@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    background: transparent;
+    width: 100%;
+    margin: auto;
+    display: block;
+    z-index: 1;
+
+   
+}
+
+
+
+.menu a{
+    
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 22px;
+    border: 5px double;
+
+
+}
+
+.menu a:hover{
+    background-color: white;
+    color: black;
+}
